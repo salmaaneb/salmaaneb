@@ -36,8 +36,10 @@
 <a href="https://www.linkedin.com/in/salmaan-ebrahim" target="blank"><img align="center" src="https://github.com/salmaaneb/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" /></a>
 </p>
 
-![salmaaneb's GitHub stats 1](https://salmaaneb-readme-stats.vercel.app/api?username=salmaaneb&show_icons=true&bg_color=00000000)
+------
 
-![salmaaneb's GitHub stats 2](https://salmaaneb-readme-stats.vercel.app/api/top-langs?username=salmaaneb&show_icons=true&theme=dark&locale=en&layout=compact)
+![salmaaneb's GitHub stats 1](https://salmaaneb-readme-stats.vercel.app/api/top-langs?username=salmaaneb&show_icons=true&theme=dark&locale=en&layout=compact)
+
+![salmaaneb's GitHub stats 2](https://salmaaneb-readme-stats.vercel.app/api?username=salmaaneb&show_icons=true&theme=dark#gh-dark-mode-only)
 
 

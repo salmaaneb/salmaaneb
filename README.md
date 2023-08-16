@@ -1,6 +1,3 @@
-<div id="header" align="center">
-  <img src="https://i.imgur.com/l4Vdd5V.gif" />
-</div>
 
 <h1 align="center">Hi 👋, I'm Salmaan Ebrahim</h1>
 <h3 align="center">Tech-Driven Developer</h3>

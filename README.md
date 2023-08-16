@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Salmaan Ebrahim</h1>
-<h3 align="center">Tech-Driven Developer</h3>
+<h1 align="center">Hello World 👋, I'm Salmaan Ebrahim</h1>
+
 
 
 - 🔭 I’m currently working on a **Glossary Tool Chrome Extension**

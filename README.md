@@ -31,7 +31,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="salmaaneb@gmail.com" target="blank"><img align="center" src="https://github.com/salmaaneb/Icons/blob/main/icons/gmail/gmail-original.png" alt="gmail" height="40" width="40" /></a>
+<a href="mailto:salmaaneb@gmail.com" target="blank"><img align="center" src="https://github.com/salmaaneb/Icons/blob/main/icons/gmail/gmail-original.png" alt="gmail" height="40" width="40" /></a>
 <a href="https://www.linkedin.com/in/salmaan-ebrahim" target="blank"><img align="center" src="https://github.com/salmaaneb/Icons/blob/main/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" /></a>
 </p>
 

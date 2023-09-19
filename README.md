@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on an **AirBnb Clone**
+- 🔭 I’m currently working on an **Airbnb Clone**
 
 - 🌱 I’m currently learning **React.js**
 

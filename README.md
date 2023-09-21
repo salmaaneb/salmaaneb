@@ -21,6 +21,7 @@
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://github.com/salmaaneb/Icons/blob/main/icons/android/android-original.svg" alt="android" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> <img src="https://github.com/salmaaneb/Icons/blob/main/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://github.com/salmaaneb/Icons/blob/main/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
+<a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://github.com/salmaaneb/Icons/blob/main/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://firebase.google.com" target="_blank" rel="noreferrer"> <img src="https://github.com/salmaaneb/Icons/blob/main/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/> </a> 
 <a href="https://en-za.wordpress.org" target="_blank" rel="noreferrer"> <img src="https://github.com/salmaaneb/Icons/blob/main/icons/wordpress/wordpress-plain.svg" alt="Javascript" width="40" height="40"/> </a> 
 <a href="https://www.figma.com" target="_blank" rel="noreferrer"> <img src="https://github.com/salmaaneb/Icons/blob/main/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/> </a> 

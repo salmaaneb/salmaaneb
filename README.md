@@ -40,7 +40,7 @@
 ------
 
 
-<p><img align="center" height="170" src="https://salmaaneb-readme-stats.vercel.app/api/top-langs?username=salmaaneb&show_icons=true&theme=cobalt&locale=en&layout=compact" alt="stat1" / ><br><br><br><br><br><br><br><br></p>
+<p><img align="left" src="https://salmaaneb-readme-stats.vercel.app/api/top-langs?username=salmaaneb&show_icons=true&theme=cobalt&locale=en&layout=compact" alt="stat1" / ><br><br><br><br><br><br><br><br></p>
 
 <p><img align="left" src="https://salmaaneb-readme-stats.vercel.app/api?username=salmaaneb&show_icons=true&rank_icon=github&theme=cobalt#gh-light-mode-only" alt="stat2" /></p>
 

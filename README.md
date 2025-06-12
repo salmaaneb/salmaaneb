@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- ⚡ Fun fact **I turn caffeine into code**
+- ⚡ Fun fact, **I turn caffeine into code**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
